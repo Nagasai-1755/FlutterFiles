@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382580575312",
+    "project_id": "watchlist-notification",
+    "storage_bucket": "watchlist-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382580575312:android:c2dde9d58198124b4f9555",
+        "android_client_info": {
+          "package_name": "com.example.watchlist_bloc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhAZfNZtXi2sYmLdjj8PRLSVOwBJatdVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
